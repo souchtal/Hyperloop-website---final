@@ -609,6 +609,11 @@ figure figcaption {
 #gtco-post-list li.one-third {
   width: 31.3%;
 }
+
+#gtco-post-list li.one-quarter {
+  width: 20.0%;
+}
+
 @media screen and (max-width: 992px) {
   #gtco-post-list li.one-third {
     width: 48%;
@@ -2122,4 +2127,5 @@ video {
     width: 100%;
     min-width: 100%;
 }
+
 /*# sourceMappingURL=style.css.map */

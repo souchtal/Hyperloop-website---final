@@ -1,10 +1,14 @@
 
 TITLE: 
-Hyperloop IIT
+Verb - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-Hyperloop IIT - 2019
-Sawsane Ouchtal
+DESIGNED & DEVELOPED by GetTemplates.co
+
+Website: http://gettemplates.co/
+Twitter: http://twitter.com/gettemplatesco
+Facebook: http://facebook.com/gettemplatesco
+
 
 CREDITS:
 
@@ -22,10 +26,6 @@ http://modernizr.com/
 
 Google Fonts
 https://www.google.com/fonts/
-
-Templates:
-Verb - 100% Fully Responsive Free HTML5 Bootstrap Template
-Website: http://gettemplates.co/
 
 Icomoon
 https://icomoon.io/app/
